@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1698055033 source:c:\users\siddi\documents\ccpp\miniproject\medical store management\main.c
+	<stdio.h>
+	<stdlib.h>
+	"customer.h"
+	"customer_Struct.h"
+	"medicinestruct.h"
+	"supplierstruct.h"
+	"billstruct.h"
+	"about.h"
+
+1698248658 c:\users\siddi\documents\ccpp\miniproject\medical store management\customer.h
+	"customer_Struct.h"
+	<stdlib.h>
+
+1697589419 c:\users\siddi\documents\ccpp\miniproject\medical store management\cust_search.h
+
+1697560553 c:\users\siddi\documents\ccpp\miniproject\medical store management\customer struct.h
+
+1697574815 c:\users\siddi\documents\ccpp\miniproject\medical store management\customer_struct.h
+
+1698256436 c:\users\siddi\documents\ccpp\miniproject\medical store management\medicinestruct.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1698248685 c:\users\siddi\documents\ccpp\miniproject\medical store management\supplierstruct.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1698822580 c:\users\siddi\documents\ccpp\miniproject\medical store management\billstruct.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1698332411 c:\users\siddi\documents\ccpp\miniproject\medical store management\about.h
+	<stdio.h>
+

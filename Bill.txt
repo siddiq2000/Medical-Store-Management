@@ -1,0 +1,48 @@
+
+Bill no.:1100
+Customer name: Avi
+Medicine Name: Crocin
+Quantity of Medicine: 2
+Medicine rate: 8
+Total: 16
+Date: 29/10/2023
+
+Bill no.:1101
+Customer name: Mangu
+Medicine Name: Crocin
+Quantity of Medicine: 1
+Medicine rate: 8
+Total: 8
+Date: 29/10/2023
+
+Bill no.:1102
+Customer name: Sid
+Medicine Name: Crocin
+Quantity of Medicine: 3
+Medicine rate: 8
+Total: 24
+Date: 29/10/2023
+
+Bill no.:1012
+Customer name: Tuba
+Medicine Name: Crocin
+Quantity of Medicine: 6
+Medicine rate: 8
+Total: 32766
+Date: 31/10/2023
+
+Bill no.:1029
+Customer name: Abb
+Medicine Name: Crocin
+Quantity of Medicine: 2
+Medicine rate: 8
+Total: 16
+Date: 31/10/2023
+
+Bill no.:1030
+Customer name: Mahesh
+Medicine Name: Crocin
+Quantity of Medicine: 1
+Medicine rate: 8
+Total: 8
+Date: 01/11/2023
